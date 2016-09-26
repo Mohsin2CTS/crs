@@ -4,7 +4,7 @@
 
   <groupId>com.redhat.microservices</groupId>
   <artifactId>backend</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <properties>
@@ -35,7 +35,7 @@
   </properties>
   
   <scm>
-          <url>https://Mohsin2CTS:Moh01@github@github.com/Mohsin2CTS/crs.git</url>		  
+          <url>https://Mohsin2CTS:Moh012github@github.com/Mohsin2CTS/crs.git</url>		  
           <connection>scm:git:ssh://git@github.com:Mohsin2CTS/crs.git</connection>
           <developerConnection>scm:git:ssh://git@github.com:Mohsin2CTS/crs.git</developerConnection>
      <tag>backend-1.0</tag>
